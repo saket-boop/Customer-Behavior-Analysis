@@ -19,6 +19,9 @@ The dataset contains customer purchase details including age, gender, product ca
 - Young adults contribute the highest revenue
 - 73% customers are non-subscribers
 
+## Dashboard
+![Dashboard](images/dashboard.png)
+
 ## Project Structure
 
 Customer-Behavior-Analysis
